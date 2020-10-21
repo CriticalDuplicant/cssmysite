@@ -1,0 +1,172 @@
+/* CSS Document */
+body {
+	background-color:forestgreen;
+	margin:0px;
+}
+#popout1{
+	color:#87DC3A;
+	font-size:1.2em;
+}
+.top-container{
+	text-align: center;
+	padding-top:40px;
+	padding-bottom:400px;
+	font-family:Montserrat;
+	background-color:#B5F6FF;
+}
+.title-area{
+	z-index:2;
+}
+#firstname{
+white-space:nowrap;
+}
+
+.middle-container1{
+	text-align: center;
+	padding-top:100px;
+	font-family:Montserrat;
+	background-color:#5ED14C;
+	padding-bottom:50px;
+}
+
+.middle-container2{
+
+	text-align: center;
+	padding-top:100px;
+	font-family:Montserrat;
+}
+
+.bottom-container1{
+	text-align:center;
+	padding-top:100px;
+	font-family:Montserrat;
+}
+.bottom-container2{
+	text-align:center;
+	margin-bottom: 50px;
+	padding-top:40px;
+	font-family:Montserrat;
+}
+.aboutme-area{
+	font-size:1.2em;
+}
+.workspace{
+width:20%;
+padding-left:40.5%;
+}
+
+
+
+.skills{
+	width: 30%;
+	text-align: center;
+	position:relative;
+	left:35%;
+}
+.greenbar {
+
+	background-color:#B8B8B8;
+	border-width:4px;
+	border-style:solid;
+	border-color:#000000;
+
+}
+#gb1 {
+	padding-top:10px;
+	padding-bottom:10px;
+	width: 70%;
+	background-color:#3BFF46;
+	border-right-width:2px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	
+}
+#gb2 {
+	width: 55%;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#3BFF46;
+	border-right-width:2px;
+	border-right-style:solid;
+	border-right-color:#000000;
+}
+#gb3 {
+	width: 80%;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#3BFF46;
+	border-right-width:2px;
+	border-right-style:solid;
+	border-right-color:#000000;
+}
+#gb4 {
+	width: 40%;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#3BFF46;
+	border-right-width:2px;
+	border-right-style:solid;
+	border-right-color:#000000;
+}
+
+#mountain1{
+	width:50%;
+	height:auto;
+	position:absolute;
+	bottom:250px;
+	right:25%;
+	z-index:2;
+}
+#mountain2{
+	width:40%;
+	height:auto;
+	position:absolute;
+	bottom:270px;
+	left:100px;
+	z-index:1;
+}
+#mountain3{
+	width:35%;
+	height:auto;
+	position:absolute;
+	bottom:280px;
+	right:120px;
+	z-index:1;
+}
+#cloud1{
+	width:15%;
+	height:auto;
+	position:absolute;
+	top:120px;
+	right:120px;
+}
+#cloud2{
+	width:10%;
+	height:auto;
+	position:absolute;
+	top:100px;
+	left:120px;
+	
+}
+.contactme{
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:30px;
+	border-bottom-width:5px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	font-family:Montserrat;
+}
+
+.button{	
+	padding:5px;
+	border-width:2px;
+	border-style:solid;
+	background-color:darkslategray;
+	text-decoration: none;
+	color:black;
+}
+#bottompad{
+	background-color:dimgray;
+	padding-top:50px;
+}
